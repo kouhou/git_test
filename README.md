@@ -1,4 +1,3 @@
-# 我的第一个GitHub项目
 
 这是项目 [git_test](https://github.com/kouhou/git_test) ，
 欢迎访问。
